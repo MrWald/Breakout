@@ -1,0 +1,8 @@
+# ignore all logs
+*.log
+
+.idea/
+
+out/
+
+*.iml
